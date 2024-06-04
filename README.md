@@ -41,4 +41,4 @@ This project showcases the application of data preprocessing, augmentation, and 
 ## Author
 Rifqi Mufiddin
 - Email: rifqimufiddin07@gmail.com
-- LinkedIn: [this link](https://www.linkedin.com/in/rifqi-mufiddin)
+- LinkedIn: [Rifqi Mufiddin](https://www.linkedin.com/in/rifqi-mufiddin)
