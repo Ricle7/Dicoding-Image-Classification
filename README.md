@@ -1,6 +1,8 @@
 # Dicoding-Image-Classification
 # Rock-Paper-Scissors Image Classification using TensorFlow
 
+![Sample Result](SS.png)
+
 This project is part of the final submission for the Dicoding Academy DBS Foundation Coding Camp 2024. The objective of the project is to create a neural network model using TensorFlow that can classify images of hands showing rock, paper, or scissors gestures. The project involves data preprocessing, augmentation, and model training, achieving an accuracy of at least 85%.
 
 ## Project Features
